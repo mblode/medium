@@ -1,0 +1,11 @@
+email: m.blode@gmail.com
+fullname: 'Matthew Blode'
+title: Admin
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$31SS4v2u70CfiqzKxBonvejYSFHao0tg2DlJYePmL00MVaUcg5U5u
