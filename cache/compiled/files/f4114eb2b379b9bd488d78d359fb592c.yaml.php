@@ -2,10 +2,10 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/mblode/Sites/medium/user/themes/medium/blueprints.yaml',
-    'modified' => 1500892895,
+    'modified' => 1501029177,
     'data' => [
         'name' => 'Medium',
-        'version' => '2.0.2',
+        'version' => '2.0.5',
         'description' => 'Medium is a simple and modern blogging theme based on Medium\'s design language, built for Grav CMS.',
         'icon' => 'medium',
         'author' => [
@@ -14,6 +14,7 @@ return [
             'url' => 'http://matthewblode.com'
         ],
         'homepage' => 'https://github.com/mblode/grav-theme-medium',
+        'demo' => 'https://medium.matthewblode.com/',
         'keywords' => 'medium, theme, minimal, modern, fast, responsive, html5, css3, multilanguage',
         'bugs' => 'https://github.com/getgrav/grav-theme-medium/issues',
         'license' => 'MIT',

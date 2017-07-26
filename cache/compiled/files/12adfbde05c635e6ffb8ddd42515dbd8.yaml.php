@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => '/Users/mblode/Sites/medium/user/themes/medium/languages.yaml',
-    'modified' => 1500892896,
+    'modified' => 1501029177,
     'data' => [
         'en' => [
             'SITE' => [

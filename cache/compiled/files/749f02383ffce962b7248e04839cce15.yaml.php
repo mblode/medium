@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'themes://medium/medium.yaml',
-    'modified' => 1500892896,
+    'modified' => 1501029177,
     'data' => [
         'enabled' => true,
         'default_lang' => 'en',
